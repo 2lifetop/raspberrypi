@@ -1,10 +1,10 @@
-# 2life.top出品
 #!/usr/bin/env python
+# 2life.top出品
 import os
 import time
 
 
-#show raspberry temperature,CPU,memory
+# show raspberry temperature,CPU,memory
 
 
 def getCPUtemp():
