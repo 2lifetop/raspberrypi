@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# -*- coding:utf-8 -*
-# 2life.top出品
 import os
 import time
 
